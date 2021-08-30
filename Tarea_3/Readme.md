@@ -6,4 +6,4 @@ En esta tarea se hicieron ejercicios sobre pruebas de hipótesis de los libros:
 
 Para consultar el notebook en [Google Colab](https://colab.research.google.com/drive/1TZ2eyHiYhKKP-oeU-ZhzO1l0Twm62sNx?usp=sharing)
 
-Para consultar el notebook en [Github]()
+Para consultar el notebook en [Github](EA_tarea_3.ipynb)
