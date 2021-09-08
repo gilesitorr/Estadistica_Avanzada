@@ -3,4 +3,4 @@ En esta tarea se hicieron ejercicios sobre pruebas ANOVA del libro __Biostatisti
 
 - [Para consultar el notebook en Google Colab](https://colab.research.google.com/drive/154OdAM1IMwxksKjVs4utSrt07D1zELvL?usp=sharing)
 
-- [Para consultar el notebook en Github](Tarea_4/EA_tarea_4.ipynb)
+- [Para consultar el notebook en Github](EA_tarea_4.ipynb)
