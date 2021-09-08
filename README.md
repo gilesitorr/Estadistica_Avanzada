@@ -4,3 +4,5 @@ En este repositorio subiré algunas de mis tareas para la materia de __Estadíst
 ## Tareas
 
 - [__Tarea 2__](/Tarea_2/Readme.md)
+- [__Tarea 3__](/Tarea_3/Readme.md)
+- [__Tarea 4__](/Tarea_4/Readme.md)
