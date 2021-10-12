@@ -10,3 +10,4 @@ En este repositorio subiré algunas de mis tareas para la materia de __Estadíst
 ### Parcial 2
 - [__Tarea 1__](/Parcial_2/Tarea_1/Readme.md)
 - [__Tarea 2__](/Parcial_2/Tarea_2/Readme.md)
+- [__Tarea 3__](/Parcial_2/Tarea_3/Readme.md)
